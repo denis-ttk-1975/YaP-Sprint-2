@@ -5,37 +5,8 @@
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  /* width: 80%; */
   background-color: #1f1f1f;
   width: 100%;
-}
-
-.section-title {
-}
-.section-title_theme_dark {
-  color: #fff;
-}
-.section-subtitle {
-}
-.section-subtitle_theme_dark {
-  color: #fff;
-}
-.table {
-}
-.table_theme_dark {
-  color: #fff;
-}
-.table__cell {
-}
-.table__cell_theme_dark {
-  width: 200px;
-  padding-top: 80px;
-}
-.table__heading {
-}
-.table__heading_theme_dark {
-}
-.table__text {
-}
-.table__text_theme_dark {
+  position: relative;
+  overflow: hidden;
 }
